@@ -148,12 +148,6 @@ a{
     margin-bottom: 3%;
 }
 
-#skill-logo-hover:hover{
-    color: #d7ac55;
-    background-image: linear-gradient(#9e38ff,#220741);
-    outline: 5px solid #d7ac55;
-    
-}
 
 .box7{
     display: grid;
